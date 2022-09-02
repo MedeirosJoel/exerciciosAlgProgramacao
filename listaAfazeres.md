@@ -1,0 +1,11 @@
+- [ ] Introdução ao Python
+- [ ] Estruturas de Condições
+- [ ] Estruturas de Condições Aninhadas
+- [ ] EStruturas de Repetição
+- [ ] Contadores e Acumuladores
+- [ ] EStruturas de Repetição Aninhadas e Séries
+- [ ] Vetores (Listas em Python)
+- [ ] Matrizes (Listas em Python)
+- [ ] Modularização
+- [ ] Manipulação de Strings
+- [ ] 
