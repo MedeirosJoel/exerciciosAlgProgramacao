@@ -1,6 +1,6 @@
-- [ ] Introdução ao Python
-- [ ] Estruturas de Condições
-- [ ] Estruturas de Condições Aninhadas
+- [x] Introdução ao Python
+- [x] Estruturas de Condições
+- [x] Estruturas de Condições Aninhadas
 - [ ] EStruturas de Repetição
 - [ ] Contadores e Acumuladores
 - [ ] EStruturas de Repetição Aninhadas e Séries
@@ -8,4 +8,3 @@
 - [ ] Matrizes (Listas em Python)
 - [ ] Modularização
 - [ ] Manipulação de Strings
-- [ ] 
