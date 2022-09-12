@@ -1,4 +1,5 @@
 - [x] Introdução ao Python
+  - [ ] Resolução dos Exercicios
 - [x] Estruturas de Condições
 - [x] Estruturas de Condições Aninhadas
 - [ ] EStruturas de Repetição
