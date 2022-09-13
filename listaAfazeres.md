@@ -1,5 +1,7 @@
+# Lista de Tarefas
+
 - [x] Introdução ao Python
-  - [ ] Resolução dos Exercicios
+  - [x] Resolução dos Exercicios
 - [x] Estruturas de Condições
 - [x] Estruturas de Condições Aninhadas
 - [ ] EStruturas de Repetição
