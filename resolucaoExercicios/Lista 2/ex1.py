@@ -1,4 +1,5 @@
 #Resolução do exercicio 1 da lista 2
+
 entrada = input("Digite o nome de usuario: ")
 
 if entrada == "Anakin":
@@ -15,5 +16,6 @@ elif entrada == "Leia":
 
 elif entrada == "Darth Sidius":
     print(f"Oi {entrada}, seja bem-vindo!")
+    
 else:
     print(f"Usuario {entrada} não autorizado!")
