@@ -5,5 +5,5 @@ Esses são exercicios para a disciplina ofertada, as listas que tem ✅ já poss
 ## Listas
 
 1. [Introdução ao Python](1.%20listaIntroducaoPython.md) ✅
-2. [Estrutura de Condição](2.%20estruturaCondicao.md)
-3. [Estruturas de Condição Aninhadas](3.%20estruturaCondicaoAninhada.md)
+2. [Estrutura de Condição](2.%20estruturaCondicao.md) ✅
+3. [Estruturas de Condição Aninhadas](3.%20estruturaCondicaoAninhada.md) 
