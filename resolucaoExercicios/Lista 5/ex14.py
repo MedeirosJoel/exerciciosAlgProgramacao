@@ -1,0 +1,1 @@
+# Resolução do exercicio 14 da lista 5

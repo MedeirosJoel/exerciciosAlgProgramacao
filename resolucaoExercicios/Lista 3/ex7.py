@@ -1,0 +1,1 @@
+# Resolução do exercicio 7 da lista 3

@@ -1,0 +1,1 @@
+# Resolução do exercicio 12 da lista 5

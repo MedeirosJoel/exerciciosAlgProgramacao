@@ -1,0 +1,1 @@
+# Resolução do exercicio 8 da lista 10
