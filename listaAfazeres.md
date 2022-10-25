@@ -4,8 +4,8 @@
   - [x] Resolução dos Exercicios
 - [x] Estruturas de Condições
 - [x] Estruturas de Condições Aninhadas
-- [ ] EStruturas de Repetição
-- [ ] Contadores e Acumuladores
+- [x] EStruturas de Repetição
+- [x] Contadores e Acumuladores
 - [ ] EStruturas de Repetição Aninhadas e Séries
 - [ ] Vetores (Listas em Python)
 - [ ] Matrizes (Listas em Python)
