@@ -6,7 +6,7 @@
 - [x] Estruturas de Condições Aninhadas
 - [x] EStruturas de Repetição
 - [x] Contadores e Acumuladores
-- [ ] EStruturas de Repetição Aninhadas e Séries
+- [ ] Estruturas de Repetição Aninhadas e Séries
 - [ ] Vetores (Listas em Python)
 - [ ] Matrizes (Listas em Python)
 - [ ] Modularização
